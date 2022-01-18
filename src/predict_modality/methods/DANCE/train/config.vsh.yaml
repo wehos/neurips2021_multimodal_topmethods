@@ -1,10 +1,10 @@
 functionality:
-  name: submission_171129_train
+  name: DANCE_train
   namespace: predict_modality_methods
   
   # metadata for your method
   
-  description: A description for your method.
+  description: Pretrained GNN ensemble models for GEX2ADT and GEX2ATAC.
   authors:
     - name: Hongzhi Wen
       email: wenhongz@msu.edu
